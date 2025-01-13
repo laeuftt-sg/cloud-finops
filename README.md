@@ -1,6 +1,6 @@
 # finops
 
-This page contains resources for understanding your cloud cost data.
+This page contains resources to help public organisation understand their cloud cost data.
 
 If you're working in an organisation that's been using cloud environments for a while (particularly across multiple cloud service providers), you've probably lost track of how much you're spending, and whether that spend is efficient. 
 
